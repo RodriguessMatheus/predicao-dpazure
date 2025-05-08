@@ -1,6 +1,5 @@
 # predicao-dpazure
 
-Beleza! Aqui vai uma explicação **em primeira pessoa**, mas no estilo **"eu como desenvolvedor ou estudante"**, não como o dono da sorveteria:
 
 ---
 
